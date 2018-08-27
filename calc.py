@@ -9,7 +9,7 @@ def multiply(x,y):
 
 def divide(x,y):
 	return(x/y)
-
+print""
 
 print "Enter the numbers"
 x=input()
