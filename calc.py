@@ -10,6 +10,8 @@ def multiply(x,y):
 def divide(x,y):
 	return(x/y)
 
+
+print "Enter the numbers"
 x=input()
 y=input()
 
